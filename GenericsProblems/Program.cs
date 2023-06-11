@@ -60,12 +60,22 @@
 
         static void Main(string[] args)
         {
+
+            // problem 1 
             int[] number = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
             string[] word = { "abc", "def", "ghi" };
             char[] chars = { 'a', 'b', 'c' };
-            Inte(number);
-            Doub(word);
-            Chara(chars);
+            //Inte(number);
+            //Doub(word);
+            //Chara(chars);
+
+            // problem 2
+            problem2.usingGenerics(number,2);
+            problem2.usingGenerics(word,"abc");
+            problem2.usingGenerics(chars,'a');
+
+
+
 
         }
     }
