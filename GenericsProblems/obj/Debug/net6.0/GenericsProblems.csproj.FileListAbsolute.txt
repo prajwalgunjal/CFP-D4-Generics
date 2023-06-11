@@ -1,0 +1,15 @@
+C:\Users\prajw\source\repos\GenericsProblems\GenericsProblems\bin\Debug\net6.0\GenericsProblems.exe
+C:\Users\prajw\source\repos\GenericsProblems\GenericsProblems\bin\Debug\net6.0\GenericsProblems.deps.json
+C:\Users\prajw\source\repos\GenericsProblems\GenericsProblems\bin\Debug\net6.0\GenericsProblems.runtimeconfig.json
+C:\Users\prajw\source\repos\GenericsProblems\GenericsProblems\bin\Debug\net6.0\GenericsProblems.dll
+C:\Users\prajw\source\repos\GenericsProblems\GenericsProblems\bin\Debug\net6.0\GenericsProblems.pdb
+C:\Users\prajw\source\repos\GenericsProblems\GenericsProblems\obj\Debug\net6.0\GenericsProblems.csproj.AssemblyReference.cache
+C:\Users\prajw\source\repos\GenericsProblems\GenericsProblems\obj\Debug\net6.0\GenericsProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajw\source\repos\GenericsProblems\GenericsProblems\obj\Debug\net6.0\GenericsProblems.AssemblyInfoInputs.cache
+C:\Users\prajw\source\repos\GenericsProblems\GenericsProblems\obj\Debug\net6.0\GenericsProblems.AssemblyInfo.cs
+C:\Users\prajw\source\repos\GenericsProblems\GenericsProblems\obj\Debug\net6.0\GenericsProblems.csproj.CoreCompileInputs.cache
+C:\Users\prajw\source\repos\GenericsProblems\GenericsProblems\obj\Debug\net6.0\GenericsProblems.dll
+C:\Users\prajw\source\repos\GenericsProblems\GenericsProblems\obj\Debug\net6.0\refint\GenericsProblems.dll
+C:\Users\prajw\source\repos\GenericsProblems\GenericsProblems\obj\Debug\net6.0\GenericsProblems.pdb
+C:\Users\prajw\source\repos\GenericsProblems\GenericsProblems\obj\Debug\net6.0\GenericsProblems.genruntimeconfig.cache
+C:\Users\prajw\source\repos\GenericsProblems\GenericsProblems\obj\Debug\net6.0\ref\GenericsProblems.dll
