@@ -75,9 +75,10 @@
             //problem2.usingGenerics(chars,'a');
 
             // problem 4 find max 
-            Problem4 p4 = new Problem4();
-            p4.FindMaxNumber(10, 54, 6);
-
+            //Problem4 p4 = new Problem4();
+            //p4.FindMaxNumber(10, 54, 6);
+            Problem5 p5 = new Problem5();
+            p5.FindMinNumber(10.1f, 5.1f, 6.1f);
         }
     }
 }
