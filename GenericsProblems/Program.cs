@@ -70,12 +70,13 @@
             //Chara(chars);
 
             // problem 2
-            problem2.usingGenerics(number,2);
-            problem2.usingGenerics(word,"abc");
-            problem2.usingGenerics(chars,'a');
+            //problem2.usingGenerics(number,2);
+            //problem2.usingGenerics(word,"abc");
+            //problem2.usingGenerics(chars,'a');
 
-
-
+            // problem 4 find max 
+            Problem4 p4 = new Problem4();
+            p4.FindMaxNumber(10, 54, 6);
 
         }
     }
