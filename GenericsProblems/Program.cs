@@ -90,8 +90,18 @@
             //p6.FindMinString(str1, str2, str3);
 
             // problem 7 using generics 
-            Problem7.P7("apple","banana","dog");
+            //Problem7.P7("apple","banana","dog");
 
+
+            //problem 8 
+            Problem8<int> problem8 = new Problem8<int>(1,2,3);
+            problem8.testMinimum();
+
+            Problem8<double> problem8_1 = new Problem8<double>(1.1,1.2,1.3);
+            problem8_1.testMinimum();
+
+            Problem8<string> problem8_2 = new Problem8<string>("abc","def","xyz");
+            problem8_2.testMinimum();
 
         }
     }
