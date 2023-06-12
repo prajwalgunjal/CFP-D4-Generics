@@ -76,19 +76,22 @@
 
             // problem 4 find max 
             //Problem4 p4 = new Problem4();
-            //p4.FindMaxNumber(10, 54, 6);
+            //p4.FindMinNumber(10, 54, 6);
             
             // problem 5 find min float
-            Problem5 p5 = new Problem5();
-            p5.FindMinNumber(10.1f, 5.1f, 6.1f);
+            //Problem5 p5 = new Problem5();
+            //p5.FindMinNumber(10.1f, 5.1f, 6.1f);
 
             // problem 6 find min string 
-            string str1 = "apple";
-            string str2 = "banana";
-            string str3 = "cherry";
-            Problem6 p6 = new Problem6();
-            p6.FindMinString(str1, str2, str3);
-          
+            //string str1 = "apple";
+            //string str2 = "banana";
+            //string str3 = "cherry";
+            //Problem6 p6 = new Problem6();
+            //p6.FindMinString(str1, str2, str3);
+
+            // problem 7 using generics 
+            Problem7.P7("apple","banana","dog");
+
 
         }
     }

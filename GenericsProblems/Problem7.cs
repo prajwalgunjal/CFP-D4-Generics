@@ -6,23 +6,23 @@ using System.Threading.Tasks;
 
 namespace GenericsProblems
 {
-    internal class Problem4
+    internal class Problem7
     {
-        public void FindMinNumber(int num1, int num2, int num3)
+        public static void P7<T>(T num1, T num2, T num3) where T : IComparable<T>
         {
-            int min = num1;
+            T min = num1;
 
-            if (num2 < min)
+            if (num2.CompareTo(min)< 0)
             {
                 min = num2;
             }
 
-            if (num3 < min)
+            if (num3.CompareTo(min) < 0)
             {
                 min = num3;
             }
 
-            Console.WriteLine($"Largest number is :- {min}");
+            Console.WriteLine($"Smallest :- {min}");
         }
     }
 }
